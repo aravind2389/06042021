@@ -26,3 +26,7 @@ $git commit -m "master branch"
 create branch:
 $git branch sprint1 ----create branch
 $git checkout sprint1 --- Switch to sprint1 branch
+
+
+"LET'S STARTS THE CONTINUOUS INTEGRATION"
+=========================================
