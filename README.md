@@ -14,7 +14,7 @@ $git config --global user.email 'ramarao388@gmail.com'   email also need to be c
 $git config --list  --- to check the user details
 
 $git push -u origin ***url*** to establish the connection between git & git hub
-$git remote --- to check Origin
+$git remote add origin "url" --- to check Origin
 
 Branching:
 ============
